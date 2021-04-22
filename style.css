@@ -145,6 +145,13 @@ nav {
  font-weight: 600;
  letter-spacing: 1px;
  box-shadow: 2px 1px 7px #6e7182;
+ cursor: pointer;
+}
+.red-area button:hover {
+ background-color: rgb(226, 226, 226);
+}
+.red-area .border-white:hover {
+ background-color: rgba(235, 236, 236, 0.24);
 }
 .red-area .border-white {
  border: #fff solid 1px;
